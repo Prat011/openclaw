@@ -45,6 +45,11 @@ Use this format when adding entries:
 
 ## Listed plugins
 
+- **Composio** — Access 1000+ third-party tools via Composio — Gmail, Slack, GitHub, Notion, Linear, Jira, HubSpot, Salesforce, Google Drive, and more.
+  npm: `@composio/openclaw-plugin`
+  repo: `https://github.com/ComposioHQ/openclaw-composio-plugin`
+  install: `openclaw plugins install @composio/openclaw-plugin`
+
 - **WeChat** — Connect OpenClaw to WeChat personal accounts via WeChatPadPro (iPad protocol). Supports text, image, and file exchange with keyword-triggered conversations.
   npm: `@icesword760/openclaw-wechat`
   repo: `https://github.com/icesword0760/openclaw-wechat`
